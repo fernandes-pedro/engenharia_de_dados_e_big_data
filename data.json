@@ -1,0 +1,16 @@
+[
+  {
+    "country": "Brazil",
+    "country_code": "BR",
+    "date": "2024-01-01",
+    "population": 214000000,
+    "gdp": 2100000000000
+  },
+  {
+    "country": "United States",
+    "country_code": "US",
+    "date": "2024-01-01",
+    "population": 331000000,
+    "gdp": 26000000000000
+  }
+]
