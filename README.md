@@ -19,7 +19,6 @@ O repositório contém:
 - **Notebook Jupyter (.ipynb)** com a implementação e explicações do processo
 - **Arquivo JSON** utilizado como exemplo de resposta de API
 - **Scripts ou trechos de código** para modelagem e persistência dos dados em banco relacional
-- **Documentação** explicando as decisões de modelagem e armazenamento
 
 ## Tecnologias Utilizadas
 
